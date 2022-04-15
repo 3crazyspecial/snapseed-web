@@ -4,7 +4,6 @@
     <router-link to="/about">About</router-link>
   </nav>
   <router-view />
-  <h1 class="text-3xl font-bold underline">Hello world!</h1>
 </template>
 
 <style lang="scss">
